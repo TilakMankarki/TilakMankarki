@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TilakMankarki
 - 👀 I’m interested in Mobile application development.
-- 🌱 I’m currently learning Dart and flutter.
-- 💞️ I’m looking to collaborate on flutter projects.
+- 🌱 I’m currently learning C# and ASP.NET core
+- 💞️ I’m looking to collaborate on C# projects.
 - 📫 How to reach me tilakkarki443@gmail.com
 - 😄 Pronouns: Night wolf.
 - ⚡ Fun fact: Dedicated person, funny guy, love travelling and eating
